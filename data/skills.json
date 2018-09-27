@@ -1,0 +1,12 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"HTML" : "90",
+		"SCSS/CSS" : "90",
+		"JavaScript" : "85",
+		"Angular 2+" : "85",
+		"Web Apps": "95",
+		"Agile Development": "90",
+		"UI/UX": "85"
+	}
+}

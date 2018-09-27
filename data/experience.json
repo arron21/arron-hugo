@@ -1,0 +1,33 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "2011- 2013",
+			"company" : "Young Company",
+			"description" : "Creating awesome WordPress websites and web experiences for all kinds of clients"
+		},
+		{
+			"timeperiod" : "2013",
+			"company" : "Altametrics",
+			"description" : "Creating food ordering apps in jQuery"
+		}
+		,
+		{
+			"timeperiod" : "2013 - 2017",
+			"company" : "Corsearch",
+			"description" : "Creating legal applications in Angular JS & Angular 2+"
+		}
+		,
+		{
+			"timeperiod" : "2016 - 2017",
+			"company" : "My Choice Software",
+			"description" : "Creating awesome Shopify plugins with Angular JS, and much more"
+		}
+		,
+		{
+			"timeperiod" : "2017 - Now",
+			"company" : "Glidewell Dental",
+			"description" : "Creating internal web applications with Angular 2+"
+		}
+	]
+}

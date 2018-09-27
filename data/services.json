@@ -1,0 +1,20 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Logo Design",
+			"description" : "Let's build a new design for your website or a logo for your brand!"
+		},
+		{
+			"icon" : "hand-pointer",
+			"title" : "Website Development",
+			"description" : "Let's build a simple good website, or maybe a WordPress site, or an E-Commerce site!"
+		},
+		{
+			"icon" : "smile",
+			"title" : "Web App Development",
+			"description" : "Let's build your next great ideas a web application!"
+		}
+	]
+}
